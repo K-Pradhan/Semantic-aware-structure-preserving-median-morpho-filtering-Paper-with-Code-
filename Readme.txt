@@ -1,0 +1,7 @@
+This Code is implimentation of the paper 
+
+Pradhan, K., Patra, S. Semantic-aware structure-preserving median morpho-filtering. Vis Comput (2023). https://doi.org/10.1007/s00371-023-02796-z
+
+There are two parameters (w_sk and itr) need to be manually changed for better results for different images. 
+
+Run the SASTF.m file to execute.

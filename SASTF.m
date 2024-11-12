@@ -17,7 +17,7 @@ FilteredImage = InputImage;
 
 
 for fltr_rpt= 1:itr
-  
+FilteredImage = mat2gray(FilteredImage); 
 if (fltr_rpt>1)
 if(c>1)
 GrayImg = rgb2gray(FilteredImage);
